@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_agate.mk
+    $(LOCAL_DIR)/twrp_agate.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_agate-user \
-    omni_agate-userdebug \
-    omni_agate-eng
+    twrp_agate-eng
